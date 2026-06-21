@@ -51,7 +51,6 @@
 - 🌐 Port Scanner (Basic)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusirumandara123&layout=compact)
 
 ## 📫 Connect With Me
 
@@ -69,6 +68,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rusirumandara123&theme=tokyonight" />
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusirumandara123&layout=compact)
+
 
 ## 📈 Activity Graph
 
