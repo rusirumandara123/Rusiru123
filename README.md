@@ -94,5 +94,5 @@ jobs:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Rusiru2004/rusirumandara123/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/rusirumandara123/rusirumandara123/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
