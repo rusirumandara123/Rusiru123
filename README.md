@@ -85,9 +85,10 @@
 
 ---
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rusirumandara123&theme=radical&no-frame=true&margin-w=10" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rusirumandara123&show_icons=true&theme=tokyonight" />
+<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=00ff00"/>
+<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=red"/>
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge&logo=kalilinux&logoColor=blue"/>
+
 </p>
