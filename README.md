@@ -1,7 +1,7 @@
 <h1 align="center">Hi ,👋 I'm Rusiru Mandara</h1>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGc0N2g5cHpucmxvdW9vcWFwcTZka2xobDMwZGNlN211MDByeG9tYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" width="100%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ2aG1uZmNoYzF5NjNvbmVnbzJkd2tyZjQ1MGtnazI2a3hzY2l2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7Sjl26eSQjem3K/giphy.gif" />
 </p>
 
 <p align="center">
