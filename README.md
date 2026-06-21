@@ -41,5 +41,5 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: linkedin.com/in/rusiru-mandara-326433211
+- LinkedIn: https://www.linkedin.com/in/rusiru-mandara-326433211/
 - Email: rusirumandara7889@gmail.com
