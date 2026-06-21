@@ -55,9 +55,7 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rusirumandara123/rusirumandara123/main/dist/github-contribution-grid-snake.svg" />
-</p>
+![snake gif](https://raw.githubusercontent.com/rusirumandara123/rusirumandara123/output/github-contribution-grid-snake.svg)
 
 ---
 
