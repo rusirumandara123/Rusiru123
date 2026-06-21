@@ -40,12 +40,9 @@
 
 ## 🐍 Contribution Snake
 
-
 <p align="center">
   <img src="https://github.com/rusirumandara123/rusirumandara123/blob/output/snake.svg" />
 </p>
-![snake animation](https://github.com/rusirumandara123/rusirumandara123/blob/output/snake.svg)
-
 ---
 
 ## 📫 Connect With Me
