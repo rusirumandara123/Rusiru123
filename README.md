@@ -73,16 +73,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rusirumandara123&theme=tokyonight" />
 </p>
 
-.github
-   └── workflows
+.github/workflows/snake.yml
+
+![snake gif](https://github.com/rusirumandara123/rusirumandara123/blob/output/snake.svg)
 
 
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # every 12 hours
-  workflow_dispatch:
+    - cron: "0 */12 * * *"   # every 12 hours auto run
+  workflow_dispatch:         # manual run button
 
 jobs:
   build:
@@ -101,12 +102,10 @@ jobs:
             dist/snake.svg
             dist/snake.gif
 
-      - name: Push snake animation to output branch
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      ![snake gif](https://github.com/rusirumandara123/rusirumandara123/blob/output/snake.svg)
