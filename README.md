@@ -13,28 +13,21 @@
 ## 👨‍💻 About Me
 - 🎓 Computing Student  
 - 🔐 Cybersecurity Enthusiast  
-- 💻 Learning C++, Java, Linux & Networking  
+- 💻 Learning C++, Java, Linux  
 - 🚀 Building real-world projects  
-- 🎯 Goal: Ethical Hacker / Security Engineer  
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-
-</p>
+## 🛠️ Languages & Tools
+![C++](https://img.shields.io/badge/C++-blue)
+![Java](https://img.shields.io/badge/Java-orange)
+![Linux](https://img.shields.io/badge/Linux-black)
+![Git](https://img.shields.io/badge/Git-red)
+![GitHub](https://img.shields.io/badge/GitHub-white)
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rusirumandara123&show_icons=true&theme=tokyonight" />
 </p>
@@ -45,19 +38,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Snake
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rusirumandara123&theme=radical&margin-w=10&no-frame=true"/>
-</p>
+![snake gif](https://raw.githubusercontent.com/rusirumandara123/rusirumandara123/main/dist/github-contribution-grid-snake.svg)
 
----
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/rusiru-mandara-326433211/
+- Email: rusirumandara7889@gmail.com
 
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/rusirumandara123/rusirumandara123/output/github-contribution-grid-snake.svg)
-
----
+> "The quieter you become, the more you are able to hear."
 
 ## 📈 Activity Graph
 
@@ -66,21 +55,3 @@
 </p>
 
 ---
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rusiru-mandara-326433211/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:rusirumandara7889@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>"The quieter you become, the more you are able to hear."</b>
-</p>
