@@ -40,7 +40,7 @@
 
 ## 🐍 Snake
 
-![snake](https://github.com/rusirumandara123/rusirumandara123/blob/output/snake.svg)
+![snake gif](https://raw.githubusercontent.com/rusirumandara123/rusirumandara123/main/dist/github-contribution-grid-snake.svg)
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/rusiru-mandara-326433211/
