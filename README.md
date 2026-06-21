@@ -1,6 +1,6 @@
 # Rusiru123
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnQzcWYwenZrbDZxYTJlNWl0NDk3aGs1MTV2dmVyejE5bXF4dzNuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a7jCRzDW5TH7vsIbYD/giphy.gif" width="100%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBzcjA3cXp1emdoeGZyNWl6cHF2ODdvMnljZzJmdHhqZDl4cGNoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKHfEpir70h8tuU/giphy.gif" width="100%" />
 </p>
 
 <p align="center">
