@@ -89,3 +89,9 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Rusiru2004/Rusiru2004/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
