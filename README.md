@@ -17,7 +17,7 @@
 🔐 Aspiring Cybersecurity Professional | 💻 C++ | Java | Linux
 </h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rusiru2004&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=rusirumandara123&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ## 👨‍💻 About Me
@@ -66,7 +66,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rusirumandara1234&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rusirumandara123&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
